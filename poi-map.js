@@ -112,8 +112,8 @@ const kind2Img = {
   190104: "ic_map_government_other", //	区级政府机关	2422
   190105: "ic_map_government_other", //	县级政府机关	4049
   190107: "ic_map_provincial_capital", //	省/直辖市/自治区政府	1
-  190108: "ic_map_government1", //	市县政府	156
-  190110: "ic_map_government1", //	乡、镇政府	1237
+  190108: "ic_map_government2", //	市县政府	156
+  190110: "ic_map_government_other", //	乡、镇政府	1237
   190111: "ic_map_xingzheng", //	行政办公大厅	1723
   190112: "ic_map_banshichu", //	驻京、驻地方办事处	34
   190200: "ic_map_gongan", //	公安机关	1034
