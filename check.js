@@ -9,12 +9,12 @@ const newFiles = files.map(item => item.substring(7, item.length - 4));
 const kind2ImgArr = Object.keys(kind2Img);
 for (let item of kind2ImgArr) {
   if (newFiles.indexOf(item) === -1) {
-    console.log(item)
+    console.log('kind2ImgArr ==>', item);
   }
 }
 
 for (let item of newFiles) {
   if (kind2ImgArr.indexOf(item) === -1) {
-    console.log(item);
+    console.log('kind2ImgArr ==>', item);
   }
 }
