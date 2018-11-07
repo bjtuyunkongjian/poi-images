@@ -1,3 +1,4 @@
+// 核对
 const fs = require('fs');
 const kind2Img = require('./poi-map');
 const NEWDIR = './images-kind'; // 新文件夹

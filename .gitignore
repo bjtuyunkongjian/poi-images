@@ -1,0 +1,4 @@
+*.xls
+*.xlsx
+/node_modules/
+/images/
